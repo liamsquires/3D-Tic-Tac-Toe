@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0fa888a930573c643b0f103b10ae5f66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Plain: {instanceID: 0}
+  - Click: {instanceID: 0}
+  - Hover: {instanceID: 0}
+  - Win: {instanceID: 0}
+  - OPiece: {instanceID: 0}
+  - XPiece: {instanceID: 0}
+  - torusPiece: {instanceID: 0}
+  - endMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
